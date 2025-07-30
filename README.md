@@ -54,7 +54,7 @@ Liver cirrhosis is a chronic disease that progresses through multiple stages. Ea
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Chitrarajalakshmi/liver-cirrhosis-stage-prediction.git
+git clone https://github.com/chitra-cp/liver-cirrhosis-stage-prediction.git
 ```
 2. Run the script:
 ```bash
